@@ -1,0 +1,3 @@
+/home/serovmaksim/GCC_REPO/JCC/build/CMakeFiles/mamaayy.dir
+/home/serovmaksim/GCC_REPO/JCC/build/CMakeFiles/edit_cache.dir
+/home/serovmaksim/GCC_REPO/JCC/build/CMakeFiles/rebuild_cache.dir
