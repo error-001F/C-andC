@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/serovmaksim/GCC_REPO/JCC/build",
-  "command": "/usr/lib64/ccache/c++   -g -o CMakeFiles/mamaayy.dir/Polimorphism.cpp.o -c /home/serovmaksim/GCC_REPO/JCC/Polimorphism.cpp",
-  "file": "/home/serovmaksim/GCC_REPO/JCC/Polimorphism.cpp",
-  "output": "CMakeFiles/mamaayy.dir/Polimorphism.cpp.o"
-}
-]

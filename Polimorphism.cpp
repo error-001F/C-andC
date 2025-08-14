@@ -13,7 +13,6 @@ class Stats {
     virtual void update(double val) = 0;
     virtual double eval() const = 0;
 }; 
-int a; 
 
 std::unique_ptr<Stats> create_stat_from_name(const std::string_view& name);
 
